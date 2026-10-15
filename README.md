@@ -25,7 +25,7 @@
 
 <img width="100%" src="assets/divider.svg" alt=""/>
 
-## 01 / Profile
+## Profile
 
 I turn complex ideas into intelligent, production-ready products. My work spans system architecture, agent orchestration, backend services, interfaces, infrastructure, and deployment, with a focus on AI systems that are reliable, observable, and built for real use.
 
@@ -78,7 +78,7 @@ umer@agentic-lab:~$ ./focus --now
 
 <img width="100%" src="assets/divider.svg" alt=""/>
 
-## 02 / Career Trajectory
+## Career Trajectory
 
 ```mermaid
 flowchart LR
@@ -106,7 +106,7 @@ flowchart LR
 
 <img width="100%" src="assets/divider.svg" alt=""/>
 
-## 03 / Architecture
+##  Architecture
 
 The pattern my agent systems are built around:
 
@@ -131,7 +131,7 @@ flowchart LR
 
 <img width="100%" src="assets/divider.svg" alt=""/>
 
-## 04 / Tech Arsenal
+## Tech Arsenal
 
 <div align="center">
 
@@ -170,7 +170,7 @@ flowchart LR
 
 <img width="100%" src="assets/divider.svg" alt=""/>
 
-## 05 / Selected Builds
+##  Selected Builds
 
 <table>
 <tr>
@@ -255,7 +255,7 @@ Final-year research on multimodal Visual Question Answering and automated report
 
 <img width="100%" src="assets/divider.svg" alt=""/>
 
-## 06 / Certifications
+## Certifications
 
 <div align="center">
 
@@ -268,7 +268,7 @@ Final-year research on multimodal Visual Question Answering and automated report
 
 <img width="100%" src="assets/divider.svg" alt=""/>
 
-## 07 / GitHub Signal
+## GitHub Signal
 
 <div align="center">
 
