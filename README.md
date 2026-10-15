@@ -1,29 +1,30 @@
 <div align="center">
 
-<img width="100%" src="assets/header.svg" alt="Umer Riaz, AI Engineer Lead. Agentic AI, LLM systems and product engineering."/>
-
-<br/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:050816,50:0E5A78,100:00D6B5&height=240&section=header&text=Umer%20Riaz&fontSize=68&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=AI%20Engineer%20Lead%20%C2%B7%20Agentic%20AI%20%C2%B7%20LLM%20Systems%20%C2%B7%20Product%20Engineering&descSize=18&descAlignY=60" alt="Umer Riaz"/>
 
 <a href="https://umerriaz.netlify.app">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&duration=3200&pause=1000&color=00D6B5&center=true&vCenter=true&width=860&height=40&lines=Architecting+autonomous+multi-agent+ecosystems;LangGraph+%7C+LangMem+%7C+OpenAI+Agent+SDK+%7C+MCP;Shipped+an+AI+product+to+50K%2B+downloads;Systems+over+demos.+Production+over+prototypes." alt="Typing animation"/>
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=19&duration=3000&pause=900&color=00D6B5&center=true&vCenter=true&width=900&height=45&lines=Architecting+autonomous+multi-agent+ecosystems;LangGraph+%7C+LangMem+%7C+OpenAI+Agent+SDK+%7C+MCP;Shipped+an+AI+product+to+50K%2B+downloads;Systems+over+demos.+Production+over+prototypes." alt="Typing animation"/>
 </a>
 
 <br/><br/>
 
-<a href="https://umerriaz.netlify.app"><img src="https://img.shields.io/badge/PORTFOLIO-050816?style=for-the-badge&labelColor=050816&color=00D6B5" alt="Portfolio"/></a>
+<a href="https://umerriaz.netlify.app"><img src="https://img.shields.io/badge/PORTFOLIO-050816?style=for-the-badge&logo=googlechrome&logoColor=00D6B5&labelColor=050816&color=00D6B5" alt="Portfolio"/></a>
 <a href="https://www.linkedin.com/in/umer-riaz-b08427223"><img src="https://img.shields.io/badge/LINKEDIN-050816?style=for-the-badge&logo=linkedin&logoColor=66A8FF&labelColor=050816&color=3B82F6" alt="LinkedIn"/></a>
 <a href="mailto:umerriaz5646@gmail.com"><img src="https://img.shields.io/badge/EMAIL-050816?style=for-the-badge&logo=gmail&logoColor=FF8FAD&labelColor=050816&color=FB7185" alt="Email"/></a>
 <img src="https://komarev.com/ghpvc/?username=Umerriaz111&label=VIEWS&color=8B5CF6&style=for-the-badge&labelColor=050816" alt="Profile views"/>
 
 <br/><br/>
 
-<img width="100%" src="assets/metrics.svg" alt="50K+ app downloads, over 94 percent detection mAP at 0.5, 5 languages supported, 2+ years shipping AI systems"/>
+<img src="https://img.shields.io/badge/50K%2B-APP_DOWNLOADS-00D6B5?style=for-the-badge&labelColor=050816" alt="50K+ app downloads"/>
+<img src="https://img.shields.io/badge/%3E94%25-DETECTION_mAP@0.5-3B82F6?style=for-the-badge&labelColor=050816" alt="Detection mAP"/>
+<img src="https://img.shields.io/badge/5-LANGUAGES_SUPPORTED-8B5CF6?style=for-the-badge&labelColor=050816" alt="5 languages supported"/>
+<img src="https://img.shields.io/badge/2%2B_YEARS-SHIPPING_AI_SYSTEMS-FB7185?style=for-the-badge&labelColor=050816" alt="2+ years shipping AI systems"/>
 
 </div>
 
 <br/>
 
-<img width="100%" src="assets/divider.svg" alt=""/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:00D6B5,100:3B82F6&height=3" alt=""/>
 
 ## Profile
 
@@ -76,7 +77,7 @@ umer@agentic-lab:~$ ./focus --now
 </tr>
 </table>
 
-<img width="100%" src="assets/divider.svg" alt=""/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:00D6B5,100:3B82F6&height=3" alt=""/>
 
 ## Career Trajectory
 
@@ -104,9 +105,9 @@ flowchart LR
 
 </details>
 
-<img width="100%" src="assets/divider.svg" alt=""/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:00D6B5,100:3B82F6&height=3" alt=""/>
 
-##  Architecture
+## Architecture
 
 The pattern my agent systems are built around:
 
@@ -129,7 +130,7 @@ flowchart LR
     style OUT fill:#065F46,stroke:#34D399,color:#fff
 ```
 
-<img width="100%" src="assets/divider.svg" alt=""/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:00D6B5,100:3B82F6&height=3" alt=""/>
 
 ## Tech Arsenal
 
@@ -168,9 +169,9 @@ flowchart LR
 
 </details>
 
-<img width="100%" src="assets/divider.svg" alt=""/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:00D6B5,100:3B82F6&height=3" alt=""/>
 
-##  Selected Builds
+## Selected Builds
 
 <table>
 <tr>
@@ -253,7 +254,7 @@ Final-year research on multimodal Visual Question Answering and automated report
 </tr>
 </table>
 
-<img width="100%" src="assets/divider.svg" alt=""/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:00D6B5,100:3B82F6&height=3" alt=""/>
 
 ## Certifications
 
@@ -266,45 +267,61 @@ Final-year research on multimodal Visual Question Answering and automated report
 
 </div>
 
-<img width="100%" src="assets/divider.svg" alt=""/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:00D6B5,100:3B82F6&height=3" alt=""/>
 
-## GitHub Signal
+## GitHub Signals
 
 <div align="center">
 
 <a href="https://github.com/Umerriaz111">
-  <img height="175" src="https://github-readme-stats.vercel.app/api?username=Umerriaz111&show_icons=true&hide_border=true&bg_color=0:050816&title_color=00D6B5&icon_color=60A5FA&text_color=C9D5E8&rank_icon=github&ring_color=00D6B5" alt="GitHub statistics"/>
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=Umerriaz111&show_icons=true&hide_border=true&include_all_commits=true&count_private=true&bg_color=0:050816&title_color=00D6B5&icon_color=60A5FA&text_color=C9D5E8&rank_icon=github&ring_color=00D6B5&card_width=480" alt="GitHub statistics"/>
 </a>
-<a href="https://github.com/Umerriaz111">
-  <img height="175" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Umerriaz111&layout=donut-vertical&hide_border=true&bg_color=050816&title_color=00D6B5&text_color=C9D5E8" alt="Most used languages"/>
+<a href="https://github.com/Umerriaz111?tab=repositories">
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Umerriaz111&layout=compact&langs_count=8&hide_border=true&bg_color=050816&title_color=00D6B5&text_color=C9D5E8&card_width=400" alt="Most used languages"/>
 </a>
 
-<img src="https://streak-stats.demolab.com?user=Umerriaz111&hide_border=true&background=050816&ring=00D6B5&fire=FB7185&currStreakLabel=00D6B5&sideLabels=C9D5E8&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=8393AD" alt="GitHub contribution streak"/>
+<br/>
 
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Umerriaz111&bg_color=050816&color=00D6B5&line=3B82F6&point=FFFFFF&area=true&area_color=0E5A78&hide_border=true" alt="Contribution activity graph"/>
+<img src="https://streak-stats.demolab.com?user=Umerriaz111&hide_border=true&background=050816&ring=00D6B5&fire=FB7185&currStreakLabel=00D6B5&sideLabels=C9D5E8&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=8393AD&stroke=1E293B" alt="GitHub contribution streak"/>
+
+<br/><br/>
+
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Umerriaz111&bg_color=050816&color=00D6B5&line=3B82F6&point=FFFFFF&area=true&area_color=0E5A78&hide_border=true&custom_title=Contribution%20Activity%20%C2%B7%20Last%2031%20Days" alt="Contribution activity graph"/>
+
+<br/>
 
 <img src="https://github-profile-trophy.vercel.app/?username=Umerriaz111&theme=onedark&no-frame=true&no-bg=true&row=1&column=7&margin-w=10" alt="GitHub trophies"/>
 
 <br/><br/>
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Umerriaz111/Umerriaz111/output/github-contribution-grid-snake-dark.svg"/>
-  <img alt="Contribution snake animation" src="https://raw.githubusercontent.com/Umerriaz111/Umerriaz111/output/github-contribution-grid-snake.svg"/>
-</picture>
-
-<br/>
-
 <a href="https://github.com/Umerriaz111?tab=repositories">
   <img src="https://img.shields.io/badge/EXPLORE_REPOSITORIES-050816?style=for-the-badge&logo=github&logoColor=00D6B5&labelColor=050816&color=00D6B5" alt="Explore repositories"/>
+</a>
+<a href="https://github.com/Umerriaz111?tab=followers">
+  <img src="https://img.shields.io/github/followers/Umerriaz111?style=for-the-badge&logo=github&logoColor=60A5FA&labelColor=050816&color=3B82F6" alt="GitHub followers"/>
+</a>
+<a href="https://github.com/Umerriaz111?tab=repositories">
+  <img src="https://img.shields.io/github/stars/Umerriaz111?affiliations=OWNER&style=for-the-badge&logo=github&logoColor=FDE68A&labelColor=050816&color=D97706" alt="GitHub stars"/>
 </a>
 
 </div>
 
-<img width="100%" src="assets/divider.svg" alt=""/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:00D6B5,100:3B82F6&height=3" alt=""/>
 
-## 08 / How I Build
+## How I Build
 
-<img width="100%" src="assets/pipeline.svg" alt="Delivery pipeline: understand, architect, engineer, integrate, deploy, improve"/>
+```mermaid
+flowchart LR
+    A([Understand]) --> B([Architect]) --> C([Engineer]) --> D([Integrate]) --> E([Deploy]) --> F([Improve])
+    F -. feedback loop .-> A
+
+    style A fill:#0B1B3A,stroke:#3B82F6,color:#fff
+    style B fill:#0E5A78,stroke:#00D6B5,color:#fff
+    style C fill:#0E5A78,stroke:#00D6B5,color:#fff
+    style D fill:#3B1F6B,stroke:#8B5CF6,color:#fff
+    style E fill:#065F46,stroke:#34D399,color:#fff
+    style F fill:#065F46,stroke:#34D399,color:#fff
+```
 
 <br/>
 
@@ -321,7 +338,7 @@ Final-year research on multimodal Visual Question Answering and automated report
 
 ### Have a challenging idea? Let's turn it into something real.
 
-<a href="https://umerriaz.netlify.app"><img src="https://img.shields.io/badge/VIEW_PORTFOLIO-050816?style=for-the-badge&labelColor=050816&color=00D6B5" alt="Portfolio"/></a>
+<a href="https://umerriaz.netlify.app"><img src="https://img.shields.io/badge/VIEW_PORTFOLIO-050816?style=for-the-badge&logo=googlechrome&logoColor=00D6B5&labelColor=050816&color=00D6B5" alt="Portfolio"/></a>
 <a href="https://www.linkedin.com/in/umer-riaz-b08427223"><img src="https://img.shields.io/badge/CONNECT-050816?style=for-the-badge&logo=linkedin&logoColor=60A5FA&labelColor=050816&color=3B82F6" alt="LinkedIn"/></a>
 <a href="mailto:umerriaz5646@gmail.com"><img src="https://img.shields.io/badge/LET'S_TALK-050816?style=for-the-badge&logo=gmail&logoColor=FB7185&labelColor=050816&color=FB7185" alt="Email"/></a>
 
@@ -329,6 +346,6 @@ Final-year research on multimodal Visual Question Answering and automated report
 
 <sub>AI ENGINEERING · SOFTWARE ENGINEERING · PRODUCT DELIVERY · DEVOPS</sub>
 
-<img width="100%" src="assets/footer.svg" alt=""/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:050816,50:0E5A78,100:00D6B5&height=140&section=footer&animation=fadeIn" alt=""/>
 
 </div>
