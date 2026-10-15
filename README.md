@@ -273,40 +273,9 @@ Final-year research on multimodal Visual Question Answering and automated report
 
 <div align="center">
 
-<a href="https://github.com/Umerriaz111">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=Umerriaz111&show_icons=true&hide_border=true&include_all_commits=true&count_private=true&bg_color=0:050816&title_color=00D6B5&icon_color=60A5FA&text_color=C9D5E8&rank_icon=github&ring_color=00D6B5&card_width=480" alt="GitHub statistics"/>
-</a>
-<a href="https://github.com/Umerriaz111?tab=repositories">
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Umerriaz111&layout=compact&langs_count=8&hide_border=true&bg_color=050816&title_color=00D6B5&text_color=C9D5E8&card_width=400" alt="Most used languages"/>
-</a>
-
-<br/>
-
-<img src="https://streak-stats.demolab.com?user=Umerriaz111&hide_border=true&background=050816&ring=00D6B5&fire=FB7185&currStreakLabel=00D6B5&sideLabels=C9D5E8&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=8393AD&stroke=1E293B" alt="GitHub contribution streak"/>
-
-<br/><br/>
-
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Umerriaz111&bg_color=050816&color=00D6B5&line=3B82F6&point=FFFFFF&area=true&area_color=0E5A78&hide_border=true&custom_title=Contribution%20Activity%20%C2%B7%20Last%2031%20Days" alt="Contribution activity graph"/>
-
-<br/>
-
-<img src="https://github-profile-trophy.vercel.app/?username=Umerriaz111&theme=onedark&no-frame=true&no-bg=true&row=1&column=7&margin-w=10" alt="GitHub trophies"/>
-
-<br/><br/>
-
-<a href="https://github.com/Umerriaz111?tab=repositories">
-  <img src="https://img.shields.io/badge/EXPLORE_REPOSITORIES-050816?style=for-the-badge&logo=github&logoColor=00D6B5&labelColor=050816&color=00D6B5" alt="Explore repositories"/>
-</a>
-<a href="https://github.com/Umerriaz111?tab=followers">
-  <img src="https://img.shields.io/github/followers/Umerriaz111?style=for-the-badge&logo=github&logoColor=60A5FA&labelColor=050816&color=3B82F6" alt="GitHub followers"/>
-</a>
-<a href="https://github.com/Umerriaz111?tab=repositories">
-  <img src="https://img.shields.io/github/stars/Umerriaz111?affiliations=OWNER&style=for-the-badge&logo=github&logoColor=FDE68A&labelColor=050816&color=D97706" alt="GitHub stars"/>
-</a>
+<img src="https://streak-stats.demolab.com?user=Umerriaz111&hide_border=true&background=050816&ring=00D6B5&fire=FB7185&currStreakLabel=00D6B5&sideLabels=C9D5E8&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=8393AD" alt="GitHub Streak"/>
 
 </div>
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:00D6B5,100:3B82F6&height=3" alt=""/>
 
 ## How I Build
 
